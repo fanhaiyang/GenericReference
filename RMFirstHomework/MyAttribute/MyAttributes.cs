@@ -58,11 +58,11 @@ namespace RMFirstHomework.MyAttribute
     /// </summary>
     public static class RemarkAttributeExtend
     {
-        public static string GetRemarkName<T>(this T value) where T : PropertyInfo
+        public static string GetRemarkName(this PropertyInfo value)
         {
             if (value.IsDefined(typeof(RemarkAttribute), true))
             {
-                RemarkAttribute attribute = (RemarkAttribute)value.GetCustomAttribute(typeof(RemarkAttribute), true);
+                RemarkAttribute attribute = value.GetCustomAttribute<RemarkAttribute>(); //(RemarkAttribute)value.GetCustomAttribute(typeof(RemarkAttribute), true);
                 return attribute.RemarkName;
             }
             return value.Name;

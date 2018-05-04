@@ -18,3 +18,10 @@ F:\项目\软谋\RMFirstHomework\RMHomework\RMFirstHomework\bin\Debug\RMFirstHom
 F:\项目\软谋\RMFirstHomework\RMHomework\RMFirstHomework\obj\Debug\RMFirstHomework.csproj.CoreCompileInputs.cache
 F:\项目\软谋\RMFirstHomework\RMHomework\RMFirstHomework\obj\Debug\RMFirstHomework.exe
 F:\项目\软谋\RMFirstHomework\RMHomework\RMFirstHomework\obj\Debug\RMFirstHomework.pdb
+F:\项目\软谋\RMFirsrHomework\RMFirstHomework\obj\Debug\RMFirstHomework.csprojResolveAssemblyReference.cache
+F:\项目\软谋\RMFirsrHomework\RMFirstHomework\obj\Debug\RMFirstHomework.csproj.CoreCompileInputs.cache
+F:\项目\软谋\RMFirsrHomework\RMFirstHomework\obj\Debug\RMFirstHomework.exe
+F:\项目\软谋\RMFirsrHomework\RMFirstHomework\obj\Debug\RMFirstHomework.pdb
+F:\项目\软谋\RMFirsrHomework\RMFirstHomework\bin\Debug\RMFirstHomework.exe.config
+F:\项目\软谋\RMFirsrHomework\RMFirstHomework\bin\Debug\RMFirstHomework.exe
+F:\项目\软谋\RMFirsrHomework\RMFirstHomework\bin\Debug\RMFirstHomework.pdb
